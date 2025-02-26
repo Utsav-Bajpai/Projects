@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 24 24"
+    fill="none" stroke="black" stroke-width="0" stroke-linecap="round"
+    stroke-linejoin="round">
+    <!-- Green circle inside the black stroke -->
+    <circle cx="12" cy="12" r="9" fill="#1fdf64"></circle>
+
+    <!-- Black pause icon -->
+    <rect x="9" y="8" width="2" height="8" fill="black"></rect>
+    <rect x="13" y="8" width="2" height="8" fill="black"></rect>
+</svg>
